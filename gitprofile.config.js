@@ -23,7 +23,7 @@ const config = {
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://niraj-ghetiya.netlify.app/',
+    website: 'https://niraj-ghetiya.vercel.app/',
     phone: '9978003438',
     email: 'nirajghetiya2002@gmail.com',
   },
