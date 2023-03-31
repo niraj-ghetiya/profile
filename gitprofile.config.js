@@ -24,7 +24,7 @@ const config = {
     skype: '',
     telegram: '',
     website: 'https://niraj-ghetiya.netlify.app/',
-    phone: '9978003438',
+    phone: '9978003439',
     email: 'nirajghetiya2002@gmail.com',
   },
   resume: {
