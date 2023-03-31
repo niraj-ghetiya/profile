@@ -186,7 +186,7 @@ const config = {
       class="text-primary" href="https://github.com/niraj003/profile"
       target="_blank"
       rel="noreferrer"
-    >Profile</a> and ❤️`,
+    >Profile</a> and ❤️.`,
 };
 
 export default config;
