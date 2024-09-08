@@ -183,7 +183,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/niraj003/profile"
+      class="text-primary" href="https://github.com/niraj-ghetiya/profile"
       target="_blank"
       rel="noreferrer"
     >Profile</a> and ❤️.`,
